@@ -42,6 +42,10 @@ Morning listening allows the teachings to integrate naturally into your consciou
 
 **Home Screen**
 
+<img src="./Application Images/quote_tab.jpg" width="250"/>
+
+**Quote Tab**
+
 <img src="./Application Images/audio_tab.jpg" width="250"/>
 
 **Audio Tab**
@@ -49,10 +53,6 @@ Morning listening allows the teachings to integrate naturally into your consciou
 <img src="./Application Images/video_tab.jpg" width="250"/>
 
 **Video Tab**
-
-<img src="./Application Images/quote_tab.jpg" width="250"/>
-
-**Quote Tab**
 
 </div>
 
